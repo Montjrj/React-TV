@@ -20,7 +20,7 @@ Take some time to familiarize yourself with the code before starting to work on 
 
 ## Instructions
 
-Build out the `<App>`, `<ShowDetails>`, and `<ShowList>` components to render the data in `src/shows/data.js`. Your submission should meet the following requirements. You are recommended to do this workshop in the order given, but feel free to adjust as needed.
+Build out the `<App>`, `<ShowDetails>`, and `<ShowSelection>` components to render the data in `src/shows/data.js`. Your submission should meet the following requirements. You are recommended to do this workshop in the order given, but feel free to adjust as needed.
 
 ### ShowDetails
 
